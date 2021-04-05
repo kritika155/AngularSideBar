@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SidebarDemoAngular"
+    }
+  },
+  "defaultProject": "SidebarDemoAngular",
+  "cli": {
+    "analytics": false
+  }
 }
